@@ -9,18 +9,6 @@ import java.io.PrintWriter;
 
 public class App {
 
-    public static final String TEXTO = """
-            Me gusta PSP y java
-            PSP se programa en java
-            es un modulo de DAM
-            y se programa de forma concurrente en PSP
-            PSP es programacion.
-            """;
-
-    public static final String MSG_ERROR = "Se ha producido un error al ejecutar el comando";
-    public static final String MSG_EXITO = "Se ha ejecutado correctamente el comando";
-    public static final int EXIT_BIEN = 0;
-    public static final int EXIT_MAL = 1;
     private static final String RUTA = "/etc";
     public static final String[] COMANDOGREP = {"grep", "a"};
     public static final String[] COMANDOLS = {"ls", RUTA};
