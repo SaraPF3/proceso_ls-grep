@@ -4,7 +4,7 @@ Hecho por Sara Pérez
 
 > El link del repositorio es: <https://github.com/SaraPF3/proceso_ls-grep>
 
-En este código se ejecuta primero el comando ls, que muestra el contenido de la carpeta introducida en la constante RUTA y posteriormente se filtra el resultado mostrando solo los elementos que contengan una "a".
+En el programa se ejecuta primero el comando ls, que muestra el contenido de la carpeta introducida en la constante RUTA y posteriormente se filtra el resultado mostrando solo los elementos que contengan una "a".
 
 En mi archivo App.java hay:
 
